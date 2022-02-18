@@ -1,3 +1,5 @@
+#!/usr/bin/env sh
+
 echo give your app a directory name
 read appname
 npx create-react-app $appname --template typescript
