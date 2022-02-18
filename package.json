@@ -1,3 +1,4 @@
 {
+  "name": "d2-cra",
   "bin": "./init.sh"
 }
